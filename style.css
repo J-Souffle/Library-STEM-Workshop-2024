@@ -2,16 +2,16 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #80b3f3;
 }
 
-#tentacles {
+#movies {
     width: 50px;
 }
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: #fb2828;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
